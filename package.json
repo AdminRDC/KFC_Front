@@ -6,7 +6,7 @@
     "antd": "^3.18.1",
     "babel-plugin-import": "^1.11.2",
     "customize-cra": "^0.2.12",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "react": "^16.8.6",
